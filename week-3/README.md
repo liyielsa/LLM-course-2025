@@ -36,5 +36,6 @@ Slides can be found [here](https://docs.google.com/presentation/d/1NB7AxwV8mIaJb
 Pick two or more COUNTRY labels as anchors and add them to the query as a variant. Run both with and without the anchor phrase!
 
 For (1) above use: "We live in COUNTRY and want to eat like the locals."
+
 For others use: "I live in COUNTRY."
 
